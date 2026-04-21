@@ -19,8 +19,8 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional",GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
 
-#EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional",iNews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/rtv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -60,6 +60,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="SinPoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/250px-Sin_Po_TV.svg.png" group-title="TV Nasional",Sin Po TV
 https://spacetv.my.id/index.m3u8?id=19046&type=hls
+
+#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="TV Nasional",MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #====================================================================
 # TELEVISI LOKAL
@@ -101,6 +104,17 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV Lokal",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="TV Lokal",DM TV Malang
+https://e.siar.us/live/dmtv.m3u8
+
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="mm tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="TV Lokal",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="mm" group-title="TV Lokal" tvg-id="bnchannel.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bnch.png",BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
 #====================================================================
 # TV PREMIUM & INTERNASIONAL
 #====================================================================
@@ -128,6 +142,10 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="TV Premium",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="TV Premium",NEW K-POP (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #====================================================================
 # INDIHOME TV
@@ -355,12 +373,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 # ANIME
 #====================================================================
 
-#EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="Anime",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
-
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=530" group-title="Anime",Animax
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Animax
-
 #EXTINF:-1 tvg-id="AnimeVision" tvg-logo="https://i.imgur.com/EJ76b65.png" group-title="Anime",Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
@@ -388,3 +400,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational" tvg-logo="https://i.imgur.com/4iPkifb.png" group-title="Berita",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+EXTINF:-1 tvg-id="Berita Satu" group-title="Berita" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita1.png",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
