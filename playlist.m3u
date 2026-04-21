@@ -58,9 +58,6 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-id="Sindonews" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/sindonews.jpg?raw=true" group-title="TV Nasional",Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-id="SinPoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/250px-Sin_Po_TV.svg.png" group-title="TV Nasional",Sin Po TV
-https://spacetv.my.id/index.m3u8?id=19046&type=hls
-
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="TV Nasional",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
