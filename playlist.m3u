@@ -58,7 +58,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-id="Sindonews" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/sindonews.jpg?raw=true" group-title="TV Nasional",Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="TV Nasional",MOJI
+#EXTINF:-1 tvg-id="MOJI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="TV Nasional",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #====================================================================
@@ -104,11 +104,11 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="TV Lokal",DM TV Malang
 https://e.siar.us/live/dmtv.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="mm tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="TV Lokal",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="TV Lokal",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="mm" group-title="TV Lokal" tvg-id="bnchannel.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bnch.png",BN Channel
+#EXTINF:-1 tvg-id="bnchannel.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bnch.png" group-title="TV Lokal",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
@@ -395,6 +395,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational" tvg-logo="https://i.imgur.com/4iPkifb.png" group-title="Berita",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-EXTINF:-1 tvg-id="Berita Satu" group-title="Berita" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita1.png",Berita Satu
+#EXTINF:-1 tvg-id="Berita Satu" group-title="Berita" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita1.png",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
