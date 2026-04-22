@@ -11,13 +11,13 @@ http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/500px-RCTI_logo_2015.svg.png" group-title="TV Nasional",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=Mozilla/5.0&referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Nasional",MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=Mozilla/5.0&referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional",GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=Mozilla/5.0&referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
@@ -38,7 +38,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional",iNews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=Mozilla/5.0&referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="TV Nasional",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
@@ -240,7 +240,7 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/720p-en-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Miramax" tvg-logo="https://deadline.com/wp-content/uploads/2017/04/miramax-logo.jpg" group-title="Film",Miramax
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8|referer=https://app.plex.tv/
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8|user-agent=Mozilla/5.0&referer=https://app.plex.tv/
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Film",HBO
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
