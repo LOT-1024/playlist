@@ -11,13 +11,13 @@ http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/500px-RCTI_logo_2015.svg.png" group-title="TV Nasional",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Nasional",MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional",GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
@@ -29,7 +29,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="TV Nasional",ANTV
-http://103.179.182.117:6768/hls/45/45.m3u8
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="tvOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="TV Nasional",tvOne
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
@@ -38,7 +38,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional",iNews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|referer=https://www.dens.tv/
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="TV Nasional",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
@@ -181,29 +181,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 # OLAHRAGA
 #====================================================================
 
-#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions1.jpg?raw=true" group-title="Olahraga",Champions TV 1
-http://103.179.182.117:6768/hls/66/66.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions2.jpg?raw=true" group-title="Olahraga",Champions TV 2
-http://103.179.182.117:6768/hls/88/88.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions5.jpg?raw=true" group-title="Olahraga",Champions TV 5
-http://103.179.182.117:6768/hls/21/21.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions6.jpg?raw=true" group-title="Olahraga",Champions TV 6
-http://103.179.182.117:6768/hls/94/94.m3u8
-
-#EXTINF:-1 tvg-id="VOLITV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/volitv.jpg?raw=true" group-title="Olahraga",VOLI TV
-http://103.179.182.117:6768/hls/2/2.m3u8
-
-#EXTINF:-1 tvg-id="TVRISport" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/tvrisport.jpg?raw=true" group-title="Olahraga",TVRI Sport
-http://103.179.182.117:6768/hls/49/49.m3u8
-
 #EXTINF:-1 tvg-id="MotorRacingTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png" group-title="Olahraga",MotorRacing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8|user-agent=Mozilla/5.0&referer=https://www.amazon.com/
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
 #EXTINF:-1 tvg-id="HorizonSports" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png" group-title="Olahraga",Horizon Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8|user-agent=Mozilla/5.0&referer=https://www.amazon.com/
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="Olahraga",FIFA+
 https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
@@ -258,7 +240,7 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/720p-en-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Miramax" tvg-logo="https://deadline.com/wp-content/uploads/2017/04/miramax-logo.jpg" group-title="Film",Miramax
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8|user-agent=Mozilla/5.0&referer=https://app.plex.tv/
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8|referer=https://app.plex.tv/
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Film",HBO
 http://103.58.160.157:8278/720-HBO/playlist.m3u8
@@ -284,9 +266,6 @@ https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="LegoKids" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" group-title="Anak & Animasi",Lego Kids TV
 https://cfd-v4-service-channel-stitch-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="Anak & Animasi",Disney Channel
-#https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Anak & Animasi",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
