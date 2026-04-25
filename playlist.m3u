@@ -128,9 +128,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_redbulltv.png" group-title="TV Premium",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="TV Premium",WWE Network
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8
-
 #EXTINF:-1 tvg-id="HorseCountry" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="TV Premium",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
