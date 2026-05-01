@@ -11,13 +11,13 @@ http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/500px-RCTI_logo_2015.svg.png" group-title="TV Nasional",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Nasional",MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://ui-avatars.com/api/?name=MNC&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Nasional",MNCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional",GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
@@ -37,17 +37,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="MetroTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="TV Nasional",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional",iNews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://ui-avatars.com/api/?name=INE&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Nasional",iNews
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="TV Nasional",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="TV Nasional",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1825328818_b384000_sleng.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="TV Nasional",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="IDXChannel.id@SD" tvg-logo="https://ui-avatars.com/api/?name=IDX&background=FFEAA7&color=fff&size=100&bold=true" group-title="TV Nasional",IDX Channel
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/330px-TVRI_JAKARTA_2023.svg.png" group-title="TV Nasional",TVRI
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
@@ -112,6 +115,9 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
+#EXTINF:-1 tvg-id="SinPoTV" tvg-logo="https://ui-avatars.com/api/?name=SPT&background=FFEAA7&color=fff&size=100&bold=true" group-title="TV Lokal",Sin Po TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 #====================================================================
 # TV PREMIUM & INTERNASIONAL
 #====================================================================
@@ -142,6 +148,12 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Music Japan" tvg-country="JP" tvg-logo="" group-title="TV Premium",Music Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ui-avatars.com/api/?name=WTV&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Premium",Warner TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 tvg-id="Thrill" tvg-logo="https://ui-avatars.com/api/?name=THR&background=FFEAA7&color=fff&size=100&bold=true" group-title="TV Premium",THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #====================================================================
 # DENS TV
@@ -257,12 +269,27 @@ http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenViki" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="Film",Rakuten Viki
 https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Film",AXN (🔉💬🇬🇧)🇮🇳
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="RockEntertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="Film",Rock Entertainment (🔉💬🇬🇧)🇮🇩
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTINF:-1 tvg-id="RockAction" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Film",Rock Action (🔉💬🇬🇧)🇮🇩
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
 #====================================================================
 # ANIMASI & ANAK-ANAK
 #====================================================================
 
-#EXTINF:-1 tvg-id="LegoKids" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" group-title="Anak & Animasi",Lego Kids TV
-https://cfd-v4-service-channel-stitch-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8
+#EXTINF:-1 tvg-id="MyKidz" tvg-logo="https://ui-avatars.com/api/?name=MK7&background=4ECDC4&color=fff&size=100&bold=true" group-title="Anak & Animasi",My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://ui-avatars.com/api/?name=NAI&background=FFEAA7&color=fff&size=100&bold=true" group-title="Anak & Animasi",Nickelodeon
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+#EXTINF:-1 tvg-id="CBeebies" tvg-logo="https://ui-avatars.com/api/?name=CA7&background=4ECDC4&color=fff&size=100&bold=true" group-title="Anak & Animasi",CBeebies
+https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 
 #EXTINF:-1 tvg-id="BiznetKids" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Anak & Animasi",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
