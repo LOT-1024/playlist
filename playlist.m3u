@@ -20,7 +20,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png" group-title="TV Nasional",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -32,16 +32,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="tvOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="TV Nasional",tvOne
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="MetroTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="TV Nasional",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://ui-avatars.com/api/?name=INE&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Nasional",iNews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="TV Nasional",Kompas TV
-https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="TV Nasional",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -62,7 +62,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="MOJI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="TV Nasional",MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #====================================================================
 # TELEVISI LOKAL
