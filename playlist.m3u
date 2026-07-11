@@ -11,13 +11,13 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/500px-RCTI_logo_2015.svg.png" group-title="TV Nasional",RCTI
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://ui-avatars.com/api/?name=MNC&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Nasional",MNCTV
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional",GTV
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="TV Nasional",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
@@ -38,7 +38,7 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://ui-avatars.com/api/?name=INE&background=4ECDC4&color=fff&size=100&bold=true" group-title="TV Nasional",iNews
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="KompasTV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="TV Nasional",Kompas TV
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
